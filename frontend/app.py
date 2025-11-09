@@ -12,7 +12,7 @@ from typing import List, Dict, Any
 # ============================================================================
 
 # API endpoint configuration
-API_URL = "http://127.0.0.1:8000/recommend"
+API_URL = "https://shl-api-p9xh.onrender.com/recommend"
 
 # Page configuration - must be the first Streamlit command
 st.set_page_config(
