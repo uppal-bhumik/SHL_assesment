@@ -46,8 +46,8 @@ The core of this project is a **RAG (Retrieval-Augmented Generation)** pipeline 
 
 ### 1. Clone the Repository
 ```bash
-git clone [YOUR_GITHUB_REPO_URL]
-cd SHL_Recommendation_Project
+git clone https://github.com/uppal-bhumik/SHL_assesment
+cd SHL
 
 2. Set Up a Virtual Environment (Recommended)
 
@@ -63,7 +63,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 4. Create Your .env File
-Create a file named .env in the root of the project (SHL_Recommendation_Project/.env) and add your OpenAI API key:
+Create a file named .env in the root of the project (SHL/.env) and add your OpenAI API key:
 
 OPENAI_API_KEY="sk-..."
 
@@ -103,23 +103,3 @@ SHL_Recommendation_Project/
 └── requirements.txt         # All Python libraries
 
 ---
-
-## 2. Your `requirements.txt` File
-
-This is the **critical** file your `README.md` depends on.
-
-Create a new file named `requirements.txt` in the root of your `SHL_Recommendation_Project/` folder. Copy and paste this *exact* list into it.
-
-fastapi uvicorn python-dotenv streamlit requests pandas openpyxl langchain langchain-core langchain-community langchain-openai langchain-text-splitters chromadb
-
-
----
-
-## Your Next Steps
-
-1.  **Create** these two files (`README.md` and `requirements.txt`).
-2.  **Go to GitHub,** create a new **public** repository.
-3.  **Upload** your entire project folder (including these new files) to that repository.
-4.  Once it's live on GitHub, **let me know.**
-
-We will then use your GitHub repo to deploy the app live on the internet.
