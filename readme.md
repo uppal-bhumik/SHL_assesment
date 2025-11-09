@@ -10,7 +10,7 @@
 
 ### 🔴 LIVE APPLICATION LINKS 🔴
 
-> **[IMPORTANT NOTE:]** These links will not work until the project is deployed. The URLs below are placeholders.
+
 >
 > * **Frontend Web App:** `https://shl-bhumik.streamlit.app/`
 > * **Backend API Docs:** `https://shl-api-p9xh.onrender.com`
