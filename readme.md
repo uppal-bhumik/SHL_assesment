@@ -82,7 +82,7 @@ streamlit run frontend/app.py
 Your browser will automatically open to http://localhost:8501
 
 Project Structure
-SHL_Recommendation_Project/
+SHL/
 ├── app/
 │   ├── core/
 │   │   └── logic.py         # The RAG "Brain"
