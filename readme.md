@@ -12,8 +12,8 @@
 
 > **[IMPORTANT NOTE:]** These links will not work until the project is deployed. The URLs below are placeholders.
 >
-> * **Frontend Web App:** `[!!! LIVE APP URL - TO BE ADDED AFTER STREAMLIT DEPLOYMENT !!!]`
-> * **Backend API Docs:** `[!!! LIVE API URL - TO BE ADDED AFTER RENDER DEPLOYMENT !!!]`
+> * **Frontend Web App:** `https://shl-bhumik.streamlit.app/`
+> * **Backend API Docs:** `https://shl-api-p9xh.onrender.com`
 
 ---
 
